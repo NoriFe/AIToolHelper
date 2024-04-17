@@ -25,7 +25,7 @@ const Navbar = () => {
                         </li>
                     ))}
                 </ul>
-                <div className="hidden lg:flex justify-center space-x-12 items-center">
+                <div className="hidden lg:flex justify-center space-x-2 items-center">
                     <a href="#" className="py-2 px-3 border rounded-md">Login</a>
                     <a href="#" className="bg-gradient-to-r from-violet-500 to-violet-800 py-2 px-3 rounded-md">Create an Account</a>
                 </div>
