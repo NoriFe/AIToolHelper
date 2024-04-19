@@ -5,8 +5,8 @@ import future from '../assets/future.jpg';
 const LearnMoreHeroSection = () => {
     return (
       <section className="grid lg:grid-cols-2 items-start mt-6 lg:mt-20 p-8 gap-8">
-          <div className="order-last lg:order-first">
-            <img src={future} alt="Future" className="w-auto h-auto rounded-xl" />
+          <div className="order-hidden lg:order-first">
+            <img src={future} alt="Future" className=" rounded-xl" />
           </div>
           <div className="container mx-auto px-4">
             <h2 className="text-3xl font-bold mb-6 text-center text-violet-800">Exploring AI</h2>

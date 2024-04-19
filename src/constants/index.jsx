@@ -13,6 +13,18 @@ export const navItems = [
   
 ];
 
+export const ais = [
+  { title: 'ChatGPT', description: 'Experience the power of conversational AI with ChatGPT, a cutting-edge chatbot powered by OpenAI.', image: 'chatgpt.jpg', link: '/chatgpt' },
+  { title: 'Stepsize AI', description: '', image: 'stylegan.jpg', link: '/stylegan' },
+  { title: 'Cody AI', description: 'Discover BERT (Bidirectional Encoder Representations from Transformers), a pre-trained natural language processing model that has revolutionized various NLP tasks.', image: 'bert.jpg', link: '/bert' },
+  { title: 'Tabnine', description: 'Learn about YOLO (You Only Look Once), an object detection algorithm that achieves high accuracy and real-time performance.', image: 'yolo.jpg', link: '/yolo' },
+  { title: 'Mutable AI', description: 'Get introduced to GPT-3, one of the largest and most powerful language models that can perform a wide range of natural language understanding tasks.', image: 'gpt3.jpg', link: '/gpt3' },
+  { title: 'Bugasura', description: 'Explore AlphaGo, an AI program developed by DeepMind that became the first computer Go program to defeat a human professional Go player.', image: 'alphago.jpg', link: '/alphago' },
+  { title: 'OpenAI Gym', description: 'Discover OpenAI Gym, a toolkit for developing and comparing reinforcement learning algorithms.', image: 'openai-gym.jpg', link: '/openai-gym' },
+  { title: 'OpenCV', description: 'Learn about CycleGAN, a technique for image-to-image translation using deep learning.', image: 'cyclegan.jpg', link: '/cyclegan' },
+  { title: 'TensorFlow', description: 'Dive into TensorFlow, an open-source machine learning framework developed by Google for building and training ML models.', image: 'tensorflow.jpg', link: '/tensorflow' },
+];
+
 
 export const features = [
   {
